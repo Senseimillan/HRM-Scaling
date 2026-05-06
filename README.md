@@ -1,5 +1,5 @@
 # HRM-Scaling-Liquidation
-Mathematical resolution to the Sapient AI HRM scaling wall (Issue #80). Open-sourcing Poincaré Deep Equilibrium (P-DEQ) and Grid-Cell Topological Anchoring to solve ZOH/Dirac Delta gradient shatter. Unblocks scaling wall to hierarchical latent reasoning.
+Mathematical resolution to the Sapient AI HRM scaling wall (Issue #80). Open-sourcing Poincaré Deep Equilibrium (P-DEQ) and Grid-Cell Topological Anchoring to solve ZOH/Dirac Delta gradient shatter.
 
 # **A Theoretical HRM Framework for Latent Scaling: Harmonic Limit-Cycle Reasoning & Grid-Cell Topological Anchoring**
 **Author:** Carl Boyer, Independent Systems Architect 
