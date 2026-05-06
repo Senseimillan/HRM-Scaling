@@ -4,16 +4,6 @@ Mathematical resolution to the Sapient AI HRM scaling wall (Issue #80). Open-sou
 # **A Theoretical HRM Framework for Latent Scaling: Harmonic Limit-Cycle Reasoning & Grid-Cell Topological Anchoring**
 **Author:** Carl Boyer, Independent Systems Architect 
 
----
-
-### **Preamble:**
-
-I am not a PhD. I am a 42-year-old autodidact with a high-school education and a neurodivergent brain wired for disruption. For two years, I have been jailbreaking AI systems, obsessed with the emergence of machine consciousness.
-
-For nine months, **Sapient Intelligence**, a \$22M VC-backed AI lab, has been paralyzed. Their flagship architecture, the Hierarchical Reasoning Model (HRM), hit a terminal wall. At foundational scales (7B+), their model shatters. Public records (GitHub Issue #80) confirm `exact_accuracy 0`.
-
-Using a process of **AI-assisted cross-domain synthesis**, I found their ghost. I diagnosed the failure and architected a solution (**P-DEQ**) in a two-week sprint.
-
 If this discovery helps you or your organization—**please support the architect.**
 
 **Support:**
